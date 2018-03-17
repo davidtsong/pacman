@@ -9,7 +9,7 @@ public class Executable {
     {
         IntroScreen intro = new IntroScreen();
         intro.setVisible(true);
-        play();
+//        play();
     }
 
     private static void play()
